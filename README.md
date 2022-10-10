@@ -1,7 +1,10 @@
-This repo accompanies our paper:
+This repo accompanies our article:
 
 **Zhang, T., Rosenberg, M., Perona, P., and Meister, M. (2022). Endotaxis: A neuromorphic algorithm for mapping, goal-learning, navigation, and patrolling. BioRxiv.**
 
-### Contents
-All the code needed to reproduce the analysis in the preprint. 
+**Endotaxis_v2.pdf**: a copy of the article.
+
+**Endotaxis-C.ipynb**: all the code needed to reproduce the analysis in the article.
+
+ 
 
